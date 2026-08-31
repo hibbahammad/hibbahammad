@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋, I'm Hibba Hammad
 
-<!--
-**hibbahammad/hibbahammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | Full-Stack Development & AI Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate focused on building modern, responsive, and user-friendly web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+* 💻 Focused on **Frontend Web Development**
+* 🌱 Currently learning and improving my **React** skills
+* 🚀 Interested in **Full-Stack Development & AI**
+* 🎨 Interested in clean, responsive, and professional UI/UX
+* 📍 Lahore, Pakistan
+
+## 🛠️ Technologies & Tools
+
+**Frontend**
+
+* HTML5
+* CSS3
+* JavaScript
+* React
+
+**Tools**
+
+* VS Code
+* Git
+* GitHub
+* Browser DevTools
+
+## 📚 Currently Learning
+
+* React
+* Modern JavaScript
+* Full-Stack Web Development
+* AI & Generative AI
+
+## 🎯 Goals
+
+My goal is to continuously improve my development skills, build meaningful web applications, and grow as a professional software developer.
+
+## 🤝 Connect With Me
+
+* 📧 Email: [hibbahammad070@gmail.com](mailto:hibbahammad070@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/hibba-hammad-0b4b643a2/
+
+---
+
+⭐ Thanks for visiting my profile!

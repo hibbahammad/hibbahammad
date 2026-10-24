@@ -1,104 +1,60 @@
 # Hi 👋, I'm Hibba Hammad
 
-### Frontend Developer | React | JavaScript | Full-Stack Development & AI Enthusiast
+### Full-Stack Developer | MERN Stack | React.js, Node.js, Express.js & MongoDB
 
-I’m a Computer Science graduate focused on building **modern, responsive, and user-friendly web applications**.
-
-I enjoy turning ideas into clean and functional interfaces while continuously improving my skills in **React, JavaScript, full-stack development, and AI technologies**.
-
----
+I build responsive, user-friendly web applications and enjoy turning ideas into practical digital solutions. My focus is on developing modern frontend experiences and expanding my skills across the full web development stack.
 
 ## 👩‍💻 About Me
 
-* 💻 Focused on **Frontend Web Development**
-* ⚛️ Learning and building with **React**
-* 🚀 Exploring **Full-Stack Web Development**
-* 🤖 Interested in **AI & Generative AI**
-* 🎨 Passionate about clean, responsive, and professional UI/UX
-* 📍 Based in **Lahore, Pakistan**
-* 🌱 Continuously learning and building practical projects
+- 💻 Focused on Full-Stack Web Development
+- ⚛️ Building interactive interfaces with React.js and JavaScript
+- 🛠️ Working with Node.js, Express.js, MongoDB, and REST APIs
+- 📱 Interested in responsive design and clean, maintainable code
+- 🌱 Continuously learning through hands-on projects
+- 📍 Based in Lahore, Pakistan
 
----
+## 🛠️ Technical Skills
 
-## 🛠️ Tech Stack
+**Frontend:** HTML5, CSS3, JavaScript, React.js, Responsive Web Design
 
-### Frontend
+**Backend:** Node.js, Express.js, REST APIs
 
-* HTML5
-* CSS3
-* JavaScript
-* React
+**Database:** MongoDB
 
-### Tools & Development
+**Tools:** Git, GitHub, VS Code, Postman
 
-* Git
-* GitHub
-* VS Code
-* Browser DevTools
+## 🚀 Featured Projects
 
-### Currently Exploring
+### Personal Portfolio
+A responsive developer portfolio showcasing my skills, projects, and development journey.
 
-* React
-* Modern JavaScript
-* Full-Stack Development
-* AI & Generative AI
+- **Live Website:** https://hibba-portfolio.netlify.app/
+- **Repository:** https://github.com/hibbahammad/hibba-portfolio
 
----
+### Weather Dashboard
+A React-based weather application that displays weather information using a weather API.
 
-## 🚀 Featured Project
+- **Live Website:** https://effervescent-medovik-05617b.netlify.app/
 
-### 🌐 Personal Portfolio
+### Food Delivery Website
+A web project focused on restaurant discovery and food delivery interface experiences.
 
-My personal developer portfolio showcasing my skills, projects, and development journey.
+- **Live Website:** https://delightful-baklava-60f205.netlify.app/
 
-**Tech:** React, JavaScript, HTML, CSS
+## 🎯 Current Goals
 
-🔗 **Live Portfolio:**
-https://hibba-portfolio.netlify.app/
+- Build practical full-stack web applications
+- Strengthen my React.js and JavaScript skills
+- Improve backend development and database integration
+- Create reliable, responsive experiences for users and businesses
 
-🔗 **GitHub Repository:**
-https://github.com/hibbahammad/hibba-portfolio
+## 🤝 Connect With Me
 
----
-
-## 📈 My Development Journey
-
-I’m building my skills through hands-on projects and practical development.
-
-My current focus is on:
-
-**Frontend → React → Full-Stack Development → AI**
-
-I believe in learning by building, improving projects through practice, and writing clean and maintainable code.
-
----
-
-## 🎯 2026 Goals
-
-* Build production-quality web applications
-* Strengthen my React and JavaScript skills
-* Develop full-stack applications
-* Learn and integrate AI into web applications
-* Build a strong open-source and GitHub portfolio
-* Grow as a professional software developer
-
----
-
-## 🤝 Let's Connect
-
-📧 **Email:** [hibbahammad070@gmail.com](mailto:hibbahammad070@gmail.com)
-
-💼 **LinkedIn:**
-https://www.linkedin.com/in/hibba-hammad-0b4b643a2/
-
-🌐 **Portfolio:**
-https://hibba-portfolio.netlify.app/
-
-🐙 **GitHub:**
-https://github.com/hibbahammad
+- **LinkedIn:** https://www.linkedin.com/in/hibba-hammad-0b4b643a2/
+- **Portfolio:** https://hibba-portfolio.netlify.app/
+- **GitHub:** https://github.com/hibbahammad
+- **Email:** hibbahammad070@gmail.com
 
 ---
 
 ⭐ Thanks for visiting my profile!
-
-If you’re interested in web development, full-stack applications, or AI, feel free to connect.

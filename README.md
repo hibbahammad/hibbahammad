@@ -25,21 +25,28 @@ I build responsive, user-friendly web applications and enjoy turning ideas into 
 
 ## 🚀 Featured Projects
 
-### Personal Portfolio
+### 1. Personal Portfolio
 A responsive developer portfolio showcasing my skills, projects, and development journey.
 
 - **Live Website:** https://hibba-portfolio.netlify.app/
 - **Repository:** https://github.com/hibbahammad/hibba-portfolio
 
-### Weather Dashboard
+### 2. Weather Dashboard
 A React-based weather application that displays weather information using a weather API.
 
 - **Live Website:** https://effervescent-medovik-05617b.netlify.app/
+- **Repository:** https://github.com/hibbahammad/06-weather-dashboard
 
-### Food Delivery Website
-A web project focused on restaurant discovery and food delivery interface experiences.
+### 3. Food Delivery Website
+A responsive food delivery application featuring restaurant browsing, search, cart management, checkout, and order tracking.
 
 - **Live Website:** https://delightful-baklava-60f205.netlify.app/
+- **Repository:** https://github.com/hibbahammad/03-food-delivery
+
+### 4. Task Management System
+A responsive React application for organizing tasks with create, edit, delete, search, filter, and LocalStorage functionality.
+
+- **Repository:** https://github.com/hibbahammad/07-task-management-system
 
 ## 🎯 Current Goals
 
